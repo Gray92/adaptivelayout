@@ -1,7 +1,7 @@
 <h2>Описание</h2>
   <p>Это учебный проект. Задача сверстать адаптивный и кросбраузерный лендинг с помощью препроцессор Sass. Реализовать адаптивное меню-гамбургер с помощью JS</p>
   
-  <a href="https://gray92.github.io/layout">Ссылка на GitHub Pages</a>
+  <a href="https://gray92.github.io/adaptivelayout">Ссылка на GitHub Pages</a>
 
 <h2>Стек</h2>
   <p>HTML</p>
